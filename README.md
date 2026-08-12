@@ -40,6 +40,5 @@ To run the notebooks in this repository, you need the following Python libraries
 #### Installation:
 ```bash
 pip install pandas numpy matplotlib seaborn plotly
-
-
-- **Kaggle Dataset:** [Autoimmune Disorder Dataset](https://www.kaggle.com/datasets/abdullahragheb/all-autoimmune-disorder-10k?select=Autoimmune_Disorder_10k_with_All_Disorders.csv)
+```
+**Kaggle Dataset:** [Autoimmune Disorder Dataset](https://www.kaggle.com/datasets/abdullahragheb/all-autoimmune-disorder-10k?select=Autoimmune_Disorder_10k_with_All_Disorders.csv)
