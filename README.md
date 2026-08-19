@@ -27,7 +27,7 @@ Tools & Libraries Used:
 ---
 
 How to Run the Project: 
-1. **Clone the Reposito
+1. **Clone the Repository
    ```bash
    git clone https://github.com/nivetha486/24ADI204_DSV_Team12-.git
 
