@@ -29,7 +29,7 @@ Tools & Libraries Used:
 How to Run the Project: 
 1. **Clone the Reposito
    ```bash
-   git clone https://github.com/nivetha486/24ADI204_DSV_Team12-Comprehensive-Autoimmune-Disorder-.git
+   git clone https://github.com/nivetha486/24ADI204_DSV_Team12-.git
 
 Required Libraries:
 To run the notebooks in this repository, you need the following Python libraries installed:
