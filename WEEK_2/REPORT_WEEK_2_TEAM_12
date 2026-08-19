@@ -28,7 +28,7 @@ The main objectives of Week 2 were to load and understand the Autoimmune Disorde
 TOOLS AND TECHNOLOGIES USED:
 The following tools and technologies were used:
 •	Python – Programming and data analysis 
-•	Jupyter Notebook – Interactive analysis environment 
+•	google collab – Interactive analysis environment 
 •	Pandas – Data loading and manipulation 
 •	NumPy – Numerical operations 
 •	Matplotlib – Data visualization 
