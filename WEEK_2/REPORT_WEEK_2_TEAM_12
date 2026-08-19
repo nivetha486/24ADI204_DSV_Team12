@@ -45,12 +45,12 @@ Basic statistical characteristics of numerical variables were examined using df.
 The dataset shows the following basic statistics:
 
 Feature	                    Mean	  Minimum	    Maximum
-Age	                        49.76	    18	         84
+Age	                    49.76	    18	         84
 Sickness Duration (months)	47.96	     0	        119
-Haemoglobin	                13.98	     —  	       —
-WBC Count                 	9,008.70	 —	         —
-ESR	                        25.25	     0	         49
-CRP	                         4.45      0	         10
+Haemoglobin	          13.98	     —  	         —
+WBC Count                 	9,008.70	     —	         —
+ESR	                    25.25	     0	        49
+CRP	                     4.45          0	        10
 
 The numerical variables have different scales and units. For example, age is measured in years, sickness duration 
 in months, ESR and CRP have their respective laboratory measurement scales, while antibody and symptom variables 
