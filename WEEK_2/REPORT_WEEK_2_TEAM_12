@@ -46,9 +46,9 @@ The dataset shows the following basic statistics:
 
 Feature	                    Mean	    Minimum	    Maximum
 Age	                    49.76	      18	                84
-Sickness Duration (months)	47.96	        0	                119
+Sickness Duration (months)	    47.96	        0	                119
 Haemoglobin	          13.98	       —  	         —
-WBC Count                 	9,008.70	       —	         —
+WBC Count                 9,008.70	       —	         —
 ESR	                    25.25	       0	        49
 CRP	                     4.45            0	        10
 
